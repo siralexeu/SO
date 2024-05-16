@@ -1,2 +1,0 @@
-# SO
-Sisteme de operare
